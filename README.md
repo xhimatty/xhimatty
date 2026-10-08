@@ -26,7 +26,7 @@ Focused on building **automated data extraction systems with Python**. I build a
 
 ---
 
-### Production Apify Actors
+## 📊 **Recent Work**
 
 ### [Konga Product Data Scraper](https://apify.com/xhimatty/konga-product-data-scraper)
 High-performance e-commerce data extraction for Konga (one of Nigeria's leading marketplaces). Delivers structured product listings with pricing, inventory, and availability data at scale.
