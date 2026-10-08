@@ -26,6 +26,19 @@ Focused on building **automated data extraction systems with Python**. I build a
 
 ---
 
+### Production Apify Actors
+
+### [Konga Product Data Scraper](https://apify.com/xhimatty/konga-product-data-scraper)
+High-performance e-commerce data extraction for Konga (one of Nigeria's leading marketplaces). Delivers structured product listings with pricing, inventory, and availability data at scale.
+
+### [Auction.com Foreclosure Scraper](https://apify.com/xhimatty/auction-com-foreclosure-scraper)
+Foreclosure monitoring actor for real estate investment sourcing. Automated daily collection with structured output for market analysis and ROI tracking.
+
+### [BusinessList Nigeria Scraper](https://apify.com/xhimatty/businesslist-nigeria-scraper)
+Business directory extraction actor for Nigeria. Clean structured data ideal for lead generation, market research, and business intelligence.
+
+---
+
 ## 🚀 **Featured Projects**
 
 ### [PriceVecta](https://github.com/xhimatty/PriceVecta)
@@ -53,17 +66,6 @@ Daily price monitoring using Playwright + GitHub Actions. Features historical tr
 ✅ **Transform raw data** into clean, structured, business-ready datasets  
 ✅ **Automate repetitive workflows** with scheduled tasks and monitoring  
 ✅ **Solve data sourcing problems** for e-commerce, real estate, market research, and more  
-
----
-
-## 📊 **Recent Work**
-
-I've successfully delivered data extraction solutions for:
-- **Real Estate**: Property listings, pricing analysis, market monitoring
-- **E-Commerce**: Product data, pricing tracking, inventory monitoring
-- **Financial Services**: Market data extraction and analysis
-- **Luxury Goods**: Price monitoring and availability tracking
-- **Business Directories**: Client data extraction and lead aggregation
 
 ---
 
