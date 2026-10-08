@@ -1,4 +1,4 @@
-# Hi, I'm Michael Mathias 👋
+# Hi, I'm Michael Mathias
 
 **Web Scraping Engineer | Data Extraction Specialist | API Reverse Engineering**
 
@@ -6,7 +6,7 @@ Focused on building **automated data extraction systems with Python**. I build a
 
 ---
 
-## 🛠️ **Core Skills & Stack**
+## **Core Skills & Stack**
 
 **Languages & Frameworks:**
 - Python (primary)
@@ -26,7 +26,7 @@ Focused on building **automated data extraction systems with Python**. I build a
 
 ---
 
-## 📊 **Recent Work**
+## **Recent Work**
 
 ### [Konga Product Data Scraper](https://apify.com/xhimatty/konga-product-data-scraper)
 High-performance e-commerce data extraction for Konga (one of Nigeria's leading marketplaces). Delivers structured product listings with pricing, inventory, and availability data at scale.
@@ -39,7 +39,7 @@ Business directory extraction actor for Nigeria. Clean structured data ideal for
 
 ---
 
-## 🚀 **Featured Projects**
+## **Featured Projects**
 
 ### [PriceVecta](https://github.com/xhimatty/PriceVecta)
 Multi-website price monitoring automation with intelligent change detection and alerts. Delivers structured data for data-driven purchasing decisions.
@@ -58,20 +58,21 @@ Daily price monitoring using Playwright + GitHub Actions. Features historical tr
 
 ---
 
-## 💡 **What I Do**
+## **What I Do**
 
-✅ **Extract valuable data** from complex, JavaScript-heavy websites  
-✅ **Reverse-engineer APIs** to uncover hidden data sources  
-✅ **Build scalable scrapers** that run reliably in production  
-✅ **Transform raw data** into clean, structured, business-ready datasets  
-✅ **Automate repetitive workflows** with scheduled tasks and monitoring  
-✅ **Solve data sourcing problems** for e-commerce, real estate, market research, and more  
+- **Extract valuable data** from complex, JavaScript-heavy websites  
+- **Reverse-engineer APIs** to uncover hidden data sources  
+- **Build scalable scrapers** that run reliably in production  
+- **Transform raw data** into clean, structured, business-ready datasets  
+- **Automate repetitive workflows** with scheduled tasks and monitoring  
+- **Solve data sourcing problems** for e-commerce, real estate, market research, and more  
 
 ---
 
 ## 📫 **Let's Connect**
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/michael-matty)
+
 - 🌐 [Website](https://xhimatty.netlify.app)
 
 ---
@@ -87,5 +88,3 @@ I'm available for:
 Feel free to reach out if you have a data extraction challenge!
 
 ---
-
-*Last updated: October 2026*
