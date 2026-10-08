@@ -18,7 +18,7 @@ Focused on building **automated data extraction systems with Python**. I build a
 **Advanced Techniques & Specializations:**
 - API reverse engineering & network analysis
 - curl_cffi (TLS/JA3 fingerprinting for anti-bot bypass)
-- User-agent rotation & session management
+- Dynamic user-agent, proxy rotation & session management
 - JavaScript rendering & dynamic content handling
 - Data transformation (Pandas, regex)
 - Automated monitoring & scheduled tasks (GCP Compute Engine, GitHub Actions, APScheduler, cron jobs)
@@ -69,8 +69,8 @@ I've successfully delivered data extraction solutions for:
 
 ## 📫 **Let's Connect**
 
-- 💼 [LinkedIn](#) (https://www.linkedin.com/in/michael-matty)
-- 🌐 [Website](#) (https://xhimatty.netlify.app)
+- 💼 [LinkedIn](https://www.linkedin.com/in/michael-matty)
+- 🌐 [Website](https://xhimatty.netlify.app)
 
 ---
 
