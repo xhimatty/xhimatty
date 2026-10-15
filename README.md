@@ -71,9 +71,9 @@ Daily price monitoring using Playwright + GitHub Actions. Features historical tr
 
 ## 📫 **Let's Connect**
 
-- <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="16" height="16" alt="LinkedIn"/> [LinkedIn](https://www.linkedin.com/in/michael-matty)
+- [<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="16" alt="LinkedIn">](https://www.linkedin.com/in/michael-matty)
 
-- 🌐 [Website](https://xhimatty.netlify.app)
+- [<img src="https://cdn.simpleicons.org/netlify/00C7B7" width="16" alt="Portfolio">](https://xhimatty.netlify.app)
 
 - [<img src="https://cdn.simpleicons.org/x/ffffff" width="16" alt="X">](https://x.com/mychaelmatty)
 
